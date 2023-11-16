@@ -7,6 +7,7 @@ git status - Mostra o status
 git branch - Listar as branches
 git checkout (branch) ou (tag) - Para alternar entre branches ou tags
 git checkout -b (nomedabranch) - Cria uma nova branch e alterna para ela
+git checkout (nomedoarquivo) - Desfaz as mudanças em um arquivo
 git log - Mostra as alterações feitas desde o início
 git fetch - Atualiza de todos os branchs e tags não reconhecidos
 git merge + branch - Junta a branch atual com a outra escolhida
