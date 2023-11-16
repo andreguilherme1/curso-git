@@ -2,7 +2,8 @@ git init - Criar um novo repositório
 git clone + URL - Clonar um repositório
 git add . - Adicionar todos os arquivos
 git commit -a -m "msg" - Commitar todas as mudanças
-git push - Enviar as alterações feitas
+git push - Enviar os arquivos commitados
+git pull - Recebe as alterações feitas
 git status - Mostra o status
 git branch - Listar as branches
 git checkout (branch) ou (tag) - Para alternar entre branches ou tags
