@@ -15,3 +15,4 @@ git merge + branch - Junta a branch atual com a outra escolhida
 git remote rm origin - Remover url de repositório
 git submodule add (repo) - Adicionar o submódulo
 git submodule - Verificar os submódulos
+git push --recurse-submodules=on-demand - Enviar para o repo do submódulo
